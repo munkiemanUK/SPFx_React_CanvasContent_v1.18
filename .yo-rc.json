@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "canvas-content",
+    "libraryId": "5ff17d34-8a65-4f4d-9d65-d55ab4d85765",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CanvasContent",
+    "solutionShortDescription": "CanvasContent description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
